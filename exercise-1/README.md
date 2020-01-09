@@ -20,3 +20,8 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 Cereal
 Broth
 Microbes
+
+drinking water
+frosting from a cake
+deteriorated tennis shoes,
+plastic bits
