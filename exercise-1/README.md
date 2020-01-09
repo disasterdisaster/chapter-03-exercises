@@ -19,9 +19,9 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 
 Cereal
 Broth
-Microbes
+_Microbes_
 
 drinking water
-frosting from a cake
+#frosting from a cake
 deteriorated tennis shoes,
-plastic bits
+##plastic bits
