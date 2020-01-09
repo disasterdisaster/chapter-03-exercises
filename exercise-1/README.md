@@ -18,10 +18,15 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
 Cereal
+
 Broth
+
 _Microbes_
 
 drinking water
-#frosting from a cake
-deteriorated tennis shoes,
-##plastic bits
+
+# frosting from a cake
+
+deteriorated tennis shoes
+
+## plastic bits
